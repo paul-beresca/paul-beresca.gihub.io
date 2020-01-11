@@ -3491,6 +3491,7 @@ input, select, textarea {
 	#footer .copyright {
 		color: #9fa3a6;
 		font-size: 0.9em;
+		float: right;
 	}
 
 		#footer .copyright a {
